@@ -1,0 +1,90 @@
+Prompt,True_Category,Predicted_Category
+I completed MATH-180 at Fullerton College; can you tell me if it satisfies the Calculus I requirement for the computer science major here?,course equivalency,course equivalency
+What is the full articulation agreement for the business administration AS-T degree from Santa Monica College?,course equivalency,course equivalency
+Will my 'Introduction to Public Speaking' course from an out-of-state university count for the 'COMM 101' general education requirement?,course equivalency,course equivalency
+"I have a score of 4 on the AP Physics C: Mechanics exam. Which course credit, if any, does that give me?",course equivalency,course equivalency
+Is there a database similar to Assist.org that I can use to check course equivalencies from a college in Oregon?,course equivalency,course equivalency
+My transcript from a university in India includes 'Advanced Engineering Mathematics'. How do I get that course evaluated for credit towards my Master's degree?,course equivalency,course equivalency
+Does the 'BIO-205' (Anatomy & Physiology) class from Irvine Valley College transfer over as equivalent to the prerequisite for the nursing program?,course equivalency,course equivalency
+I'm looking at the transfer details for the communications major. Does 'COMM-120' from Saddleback College satisfy the lower-division requirement for 'Small Group Communication'?,course equivalency,course equivalency
+Can I use a CLEP exam score in 'American Government' to bypass the political science graduation requirement?,course equivalency,course equivalency
+"The philosophy class I took, 'PHIL 2: Critical Thinking', isn't showing up on my transfer credit report. Can you verify if it's equivalent to a course here?",course equivalency,course equivalency
+I took a series of three organic chemistry courses at a different UC. How do I ensure they are counted for the complete O-Chem requirement here?,course equivalency,course equivalency
+What's the process for petitioning a course for credit if it's not listed in the official articulation agreement?,course equivalency,course equivalency
+Does completing the entire CSU general education breadth pattern mean I've satisfied all my lower-division general ed here?,course equivalency,program pathway
+I'm a veteran with military training in electronics. Is it possible to get that experience assessed for academic credit in the electrical engineering department?,course equivalency,course equivalency
+Can you check if 'Intro to Sociology' from Coastline Community College will transfer for credit?,course equivalency,course equivalency
+Will 'Digital Photography 1' from my community college count as a lower-division arts elective?,course equivalency,course equivalency
+I need to verify that 'Statistics for Behavioral Sciences' from my previous institution is equivalent to 'PSYC 10B'.,course equivalency,course equivalency
+How many units does the 'Spanish 101' from Golden West College transfer as?,course equivalency,course equivalency
+Is there an equivalent course here for the 'Introduction to Logic' class I took at a private university?,course equivalency,course equivalency
+My unofficial transcript shows 'ECON 201'. What course does that articulate to at this campus?,course equivalency,course equivalency
+The course description for my old 'Java Programming' class is nearly identical to your 'ICS 32'. Will it transfer?,course equivalency,course equivalency
+I want to see the official transfer agreement between the Theatre Arts program at Orange Coast College and the Drama department here.,course equivalency,course equivalency
+Will my 'World Religions' course satisfy the multicultural studies requirement?,course equivalency,course equivalency
+Does an Associate's Degree for Transfer (ADT) in History guarantee junior standing in the History major?,course equivalency,program pathway
+I took 'Business Calculus'. Will that count for the standard 'Calculus I' requirement for a science major?,course equivalency,course equivalency
+Can my 'Introductory Geology' lab course from a quarter-system school satisfy the science lab requirement at this semester-system school?,course equivalency,course equivalency
+Please confirm the equivalency for 'ANTH 101: Physical Anthropology' from Cypress College.,course equivalency,course equivalency
+How do I check if my study abroad courses will transfer for upper-division credit?,course equivalency,course equivalency
+My AP English Literature score was a 5. Does that clear me of both freshman composition requirements?,course equivalency,course equivalency
+Will 'Introduction to Kinesiology' from a community college count towards the Kinesiology major here?,course equivalency,course equivalency
+"Can you provide the recommended four-year, semester-by-semester academic plan for a B.S. in Computer Science?",program pathway,program pathway
+I'm a first-year student majoring in Biology. What specific courses should I register for in my first two semesters?,program pathway,program pathway
+I just finished my lower-division math and physics series. What are the core upper-division engineering courses I should take next year?,program pathway,program pathway
+"What is the official course sequence for the nursing program, starting from admission to graduation?",program pathway,program pathway
+I want to graduate in three years with a degree in Economics. Is there an accelerated roadmap I can follow?,program pathway,program pathway
+"As a transfer student in Political Science, what's the standard two-year pathway to complete my degree requirements?",program pathway,program pathway
+What are the prerequisite courses I need to complete before I am eligible to enroll in 'Advanced Corporate Finance'?,program pathway,program pathway
+I'm interested in the pre-med track. Which courses does the program mapper suggest I take each year to prepare for the MCAT?,program pathway,program pathway
+"If I fail a required class this semester, how does that impact my course sequence for the following year?",program pathway,program pathway
+Please show me the degree roadmap for a double major in Music and Communications.,program pathway,program pathway
+I'm a part-time student. What is the suggested course plan if I can only take 6-8 units per semester in the Sociology program?,program pathway,program pathway
+What are the core lower-division requirements that all students in the School of Engineering must complete?,program pathway,program pathway
+"Can you list all the required studio art classes for the BFA in Graphic Design, in the order they should be taken?",program pathway,program pathway
+I want to specialize in software engineering. What specific upper-division electives does the CS program path recommend?,program pathway,program pathway
+What is the capstone project or course sequence for the Environmental Science major?,program pathway,program pathway
+"How many total units are required for the History major, and what is the breakdown between lower-division and upper-division courses?",program pathway,program pathway
+"Which foreign language courses are required for an International Studies degree, and when should I start taking them?",program pathway,program pathway
+Show me the standard pathway for a student who wants to eventually apply to the teaching credential program.,program pathway,program pathway
+"I need to see the course plan for the MBA program, specifically the first-year core curriculum.",program pathway,program pathway
+What is the critical path of courses that must be taken in a specific order for the chemical engineering degree?,program pathway,program pathway
+"Which statistics course is required for psychology majors, and in which year is it typically taken?",program pathway,program pathway
+Does the program pathway for the drama major include any required internships?,program pathway,program pathway
+I want to switch my major to Data Science. What courses should I prioritize taking next semester to catch up?,program pathway,program pathway
+What are the concentration requirements within the Business Administration major and how do they fit into the 4-year plan?,program pathway,program pathway
+Can you provide a checklist of all requirements to graduate with a degree in Philosophy?,program pathway,program pathway
+Which humanities courses does the program map recommend to fulfill the general education requirements for a science major?,program pathway,program pathway
+What is the sequence of clinical rotations for third-year medical students?,program pathway,program pathway
+I'm on academic probation. What's the recommended course load and plan to get back in good standing?,program pathway,program pathway
+What is the final portfolio course required for graduation in the architecture program?,program pathway,program pathway
+What is the deadline to apply for graduation if I'm finishing my courses this fall?,others,others
+Where on campus can I find the Financial Aid office and what are their hours?,others,others
+How much does a residential parking permit cost for the academic year?,others,others
+Can you tell me about the different meal plan options available for students living in the dorms?,others,others
+When does registration for the winter quarter begin for continuing students?,others,others
+What is the university's official policy on plagiarism and academic dishonesty?,others,others
+How can I book a group study room in the main library?,others,others
+What clubs or student organizations are there for someone interested in video game development?,others,others
+Is there a campus shuttle that runs from the remote parking lots to the center of campus?,others,others
+What are the hours for the main recreational center and gym during the summer?,others,others
+How do I submit a maintenance request for a broken appliance in my dorm room?,others,others
+What is the last day to add or drop a class for the current semester without a 'W' on my transcript?,others,others
+"Does the university offer free software, like Microsoft Office, to students?",others,others
+What is the process for declaring a minor in Creative Writing?,others,program pathway
+Where can I find a calendar of official university holidays for this year?,others,others
+How do I get an official transcript sent to a potential employer?,others,others
+Is there a lost and found on campus? I think I left my jacket in a lecture hall.,others,others
+What mental health and counseling services are available to students?,others,others
+Can I bring a car to campus as a freshman?,others,others
+What are the dates for final exams this semester?,others,others
+How do I change my major from Undeclared to Psychology?,others,program pathway
+Are there any on-campus job opportunities for students?,others,others
+What is the guest policy for the residence halls?,others,others
+"Can you tell me where the largest lecture hall, 'Smith Hall 101', is located?",others,others
+What is the tuition cost for an out-of-state undergraduate student for one semester?,others,others
+How do I apply for the university's study abroad program in Spain?,others,others
+What immunizations are required for all incoming students?,others,others
+Is there a campus bookstore where I can buy my textbooks?,others,others
+What is the name of the university's official mascot?,others,others
+How do I reset my password for the main student online portal?,others,others
